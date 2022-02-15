@@ -1,0 +1,14 @@
+C:\Users\jacky\Desktop\Hu_GEP_FileXML\Hu_GEP_FileXML\bin\Debug\netcoreapp3.1\Hu_GEP_FileXML.exe
+C:\Users\jacky\Desktop\Hu_GEP_FileXML\Hu_GEP_FileXML\bin\Debug\netcoreapp3.1\Hu_GEP_FileXML.deps.json
+C:\Users\jacky\Desktop\Hu_GEP_FileXML\Hu_GEP_FileXML\bin\Debug\netcoreapp3.1\Hu_GEP_FileXML.runtimeconfig.json
+C:\Users\jacky\Desktop\Hu_GEP_FileXML\Hu_GEP_FileXML\bin\Debug\netcoreapp3.1\Hu_GEP_FileXML.runtimeconfig.dev.json
+C:\Users\jacky\Desktop\Hu_GEP_FileXML\Hu_GEP_FileXML\bin\Debug\netcoreapp3.1\Hu_GEP_FileXML.dll
+C:\Users\jacky\Desktop\Hu_GEP_FileXML\Hu_GEP_FileXML\bin\Debug\netcoreapp3.1\Hu_GEP_FileXML.pdb
+C:\Users\jacky\Desktop\Hu_GEP_FileXML\Hu_GEP_FileXML\obj\Debug\netcoreapp3.1\Hu_GEP_FileXML.csprojAssemblyReference.cache
+C:\Users\jacky\Desktop\Hu_GEP_FileXML\Hu_GEP_FileXML\obj\Debug\netcoreapp3.1\Hu_GEP_FileXML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacky\Desktop\Hu_GEP_FileXML\Hu_GEP_FileXML\obj\Debug\netcoreapp3.1\Hu_GEP_FileXML.AssemblyInfoInputs.cache
+C:\Users\jacky\Desktop\Hu_GEP_FileXML\Hu_GEP_FileXML\obj\Debug\netcoreapp3.1\Hu_GEP_FileXML.AssemblyInfo.cs
+C:\Users\jacky\Desktop\Hu_GEP_FileXML\Hu_GEP_FileXML\obj\Debug\netcoreapp3.1\Hu_GEP_FileXML.csproj.CoreCompileInputs.cache
+C:\Users\jacky\Desktop\Hu_GEP_FileXML\Hu_GEP_FileXML\obj\Debug\netcoreapp3.1\Hu_GEP_FileXML.dll
+C:\Users\jacky\Desktop\Hu_GEP_FileXML\Hu_GEP_FileXML\obj\Debug\netcoreapp3.1\Hu_GEP_FileXML.pdb
+C:\Users\jacky\Desktop\Hu_GEP_FileXML\Hu_GEP_FileXML\obj\Debug\netcoreapp3.1\Hu_GEP_FileXML.genruntimeconfig.cache

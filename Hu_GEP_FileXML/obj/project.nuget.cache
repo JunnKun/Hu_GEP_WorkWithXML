@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sHzjerD7L3xXmpXGa5Gz4NKImk2YISrANddWfmFZjxrKExqp/LxzdYG7V0tF5/EwRQ/g4FOASKFJ51+wic0qew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jacky\\Desktop\\Hu_GEP_FileXML\\Hu_GEP_FileXML\\Hu_GEP_FileXML.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jacky\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}

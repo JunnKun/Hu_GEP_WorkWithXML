@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Hu_GEP_FileXML/1.0.0": {
+        "runtime": {
+          "Hu_GEP_FileXML.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hu_GEP_FileXML/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
